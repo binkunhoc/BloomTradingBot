@@ -1,0 +1,2 @@
+# BloomTradingBot
+Bloom Solana Bot 🌸
